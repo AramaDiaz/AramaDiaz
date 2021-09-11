@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AramaDiaz
-- 👀 I’m interested in Frontend Development.
+- 👀 I’m passionate about Frontend Development.
 - 🌱 I’m currently learning React Js.
 
 <!---
