@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AramaDiaz
 - 👀 I’m passionate about Frontend Development.
-- 🌱 I’m currently learning React Js.
 
 <!---
 AramaDiaz/AramaDiaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
